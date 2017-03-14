@@ -1,0 +1,6 @@
+Powyzej przedstawione polecenia s ²a tylko wst ²epn ²a wskazówk ²a, ÿ
+cze´s´c z nich w zalezno´sci od u ÿ zytych parametrów mo ÿ ze oznacza´c ÿ
+inn ²a operacj ²e. Na przyk³ad polecenie git checkout w zalezno´sci czy ÿ
+podamy jako parametr nazw ²e ga³ ²ezi (ang. branch) czy pliku, zmieni
+ga³ ²a´z projektu lub usunie zmiany z pliku.
+Pliki w projekcie mog ²a znajdowa´c si ²e w róznych stanach: ÿ
