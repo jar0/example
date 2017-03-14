@@ -4,3 +4,5 @@ inn ²a operacj ²e. Na przyk³ad polecenie git checkout w zalezno´sci czy ÿ
 podamy jako parametr nazw ²e ga³ ²ezi (ang. branch) czy pliku, zmieni
 ga³ ²a´z projektu lub usunie zmiany z pliku.
 Pliki w projekcie mog ²a znajdowa´c si ²e w róznych stanach: ÿ
+
+dodalem zmiany jako inny user
